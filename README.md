@@ -2,8 +2,12 @@
 Utitilizando Azure Function para converter temperaturas
 
 
-![image](https://user-images.githubusercontent.com/6372185/219949694-b79cc207-7228-4f7a-b2d6-92a67574735f.png)
+![image](https://user-images.githubusercontent.com/6372185/219951950-123b805a-0f73-4084-b7ad-b9fb7ff43741.png)
 
-![image](https://user-images.githubusercontent.com/6372185/219949707-6de289fa-7764-4af9-a565-16c5125199cd.png)
+![image](https://user-images.githubusercontent.com/6372185/219951928-eeeb7112-14b2-4f10-8ede-998bb5575425.png)
 
-![image](https://user-images.githubusercontent.com/6372185/219949737-b542a748-0300-47e6-ae33-b126529929f0.png)
+![image](https://user-images.githubusercontent.com/6372185/219952005-15bc7462-82e5-43b4-94da-e9de8bf35ef4.png)
+
+![image](https://user-images.githubusercontent.com/6372185/219952068-efd7c9da-85d6-442d-9fa8-fe841ff1e478.png)
+
+
